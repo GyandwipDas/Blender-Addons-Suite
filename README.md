@@ -15,4 +15,8 @@ You can save different versions of python files that way you can just disable it
 
 This should be a little easier the next release though.
 
+**This is how you use the add-on**
+
+https://github.com/user-attachments/assets/a8d43531-bc7b-499a-babb-01dbddd832fe
+
 Contact me if there are any issue or feature you might want to see for the next release. Enjoy!
