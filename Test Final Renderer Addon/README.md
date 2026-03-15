@@ -6,4 +6,4 @@ How to use
 4. Can change these values by going into C:\Users\<user>\AppData\Roaming\Blender Foundation\Blender\<whichever blender version you are using>\scripts\addons
 
 ![image alt](https://github.com/GyandwipDas/Blender-Addons-Suite/blob/a74dce459eca67e445ebfa126b3dacc6ee89233e/extras/461861281-ea13f364-b3b0-43cd-b850-b4cf3c43203d.png)
-![image alt](https://github.com/GyandwipDas/Blender-Addons-Suite/blob/a74dce459eca67e445ebfa126b3dacc6ee89233e/extras/461862062-36f484f1-4104-4c5b-a275-c0d466c58c5e.mp4)
+![image alt](https://github.com/GyandwipDas/Blender-Addons-Suite/blob/106e6fe12a89a9edcbad3c446c17326808943d13/extras/Screenshot_20260316_020959.png)
